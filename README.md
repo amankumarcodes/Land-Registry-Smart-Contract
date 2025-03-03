@@ -46,7 +46,7 @@ transferOwnership(
 
 ### Retrieve Land Details
 
-![Retrieve Land Details](Preview/getLand.png)
+![](Preview/getLand.png)
 
 ```solidity
 (uint256 id, string memory location, uint256 area, address owner, bool registered) = getLand(12345);
